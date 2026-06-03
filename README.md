@@ -3,7 +3,7 @@
 ## 🔗 Project Link
 
 GitHub Repository:
-YOUR_GITHUB_LINK_HERE
+[YOUR_GITHUB_LINK_HERE](https://github.com/saidurgasampenga-bit/Library-Analytics-Dashboard-Power-Bi-Project.git)
 
 ---
 
